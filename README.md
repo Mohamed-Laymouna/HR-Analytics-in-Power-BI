@@ -34,7 +34,7 @@ This project is a comprehensive case study on **HR Analytics in Power BI** that 
    - Ratings from both managers and self-assessments were tracked to identify discrepancies or patterns in performance reviews.
 
 
-The Report created in Power BI includes the following visualizations and measures:
+## The Report created in Power BI includes the following visualizations and measures:
 
 1. **Overview**:
 ![alt text](image.png)
