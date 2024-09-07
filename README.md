@@ -33,7 +33,6 @@ This project is a comprehensive case study on **HR Analytics in Power BI** that 
    - Multiple factors such as job satisfaction, environment satisfaction, relationship satisfaction, and work-life balance were analyzed by year.
    - Ratings from both managers and self-assessments were tracked to identify discrepancies or patterns in performance reviews.
 
-## Dashboard Features
 
 The Report created in Power BI includes the following visualizations and measures:
 
